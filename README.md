@@ -11,7 +11,7 @@
 3. Run the 'museum.py' file found within the code folder
 
 ## Task Assignment
-### Aaryan (UCID:30171280)
+### Aaryan
 - Database script
   - Tables
   - Users
@@ -22,7 +22,7 @@
   - Guest functionality
   - Necessary functions within table_funcs.py (show_table)
 
-### Debo (UCID:30171419)
+### Debo
 - Database query code (all questions)
   - Queries
   - Triggers
@@ -30,7 +30,7 @@
   - Data entry
   - Necessary functions within table_funcs.py (insert, update, delete, lookup)
 
-### Rajvir (UCID:30150118)
+### Rajvir
 - Relational Schema
 - EER Diagram
 - Python Application
