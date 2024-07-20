@@ -1,0 +1,33 @@
+{
+  "sqltools.connections": [
+    {
+      "mysqlOptions": {
+        "authProtocol": "default",
+        "enableSsl": "Disabled"
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3306,
+      "driver": "MySQL",
+      "name": "artmuseumdb",
+      "database": "artmuseum",
+      "username": "root",
+      "password": "turbanman21"
+    },
+    {
+      "mysqlOptions": {
+        "authProtocol": "xprotocol",
+        "enableSsl": "Disabled"
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 33060,
+      "driver": "MySQL",
+      "name": "artmuseum",
+      "database": "artmuseum",
+      "username": "root",
+      "password": "Calgary123$",
+      "connectionTimeout": 1000
+    }
+  ]
+}
